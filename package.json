@@ -1,0 +1,25 @@
+{
+  "name": "iso-base64",
+  "version": "1.0.0",
+  "description": "Simple isomorphic base64 library for node and browsers",
+  "main": "index.js",
+  "browser": "browser.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techchrism/iso-base64.git"
+  },
+  "keywords": [
+    "isomorphic",
+    "base64"
+  ],
+  "author": "techchrism",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/techchrism/iso-base64/issues"
+  },
+  "homepage": "https://github.com/techchrism/iso-base64#readme"
+}
